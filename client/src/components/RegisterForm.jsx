@@ -31,7 +31,7 @@ const Registerform = () => {
 
              />
              
-            <button className="px-4 py-2 text-white mt-4 text-center  bg-green-500 items-center rounded-md ">Singn Up</button>
+            <button className="px-4 py-2 text-white mt-4 text-center  bg-green-500 items-center rounded-md ">Register</button>
             <div className="flex gap-40">
             <h6>Already have a account</h6>
             <Link to="/signin" className="text-blue-500 hover:underline">
