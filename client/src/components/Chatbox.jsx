@@ -43,7 +43,7 @@ const Chatbox = ({ input, setInput }) => {
       </div>
      
 
-     <div className="absolute bottom-0 flex gap-4 items-cener justify-center ml-10 mb-8">
+     <div className=" bottom-0 flex gap-4 items-cener justify-center ml-10 mb-8">
 
         <input
           type="text"
