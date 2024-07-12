@@ -6,7 +6,8 @@ import './index.css'
 import About from './components/About.jsx'
 import React from 'react'
 import SignIn from './components/SignIn.jsx'
-import Registerpage from './components/SignUp.jsx'
+import Registerpage from './components/Register.jsx'
+
 
 
 const router = createBrowserRouter([

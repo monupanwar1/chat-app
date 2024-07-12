@@ -3,7 +3,7 @@ import { useState } from "react";
 import Chatbox from "./components/Chatbox";
 import About from "./components/About";
 import Navbar from "./components/Navbar";
-import Registerpage from "./components/SignUp";
+import Registerpage from "./components/Register";
 
 
 
